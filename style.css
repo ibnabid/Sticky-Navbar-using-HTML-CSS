@@ -27,7 +27,7 @@ body {
   .navbar {
     display: flex;
     position: fixed;
-    background-color: white;
+    background-color: #d5c9c9;
     width: 100%;
     justify-content: space-between;
     align-items: center;
